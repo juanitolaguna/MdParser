@@ -2,6 +2,7 @@
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "handlebars": "^4.1.1",
     "markdown-it": "^8.4.2",
